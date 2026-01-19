@@ -19002,6 +19002,13 @@
     "name": "GoBoard",
     "author": "Dmitry I. Sokolov",
     "description": "Render Go game diagrams from Markdown code blocks.",
-    "repo": "dsokolov/goboard"
+    "repo": "dsokolov/goboard"  
+  },
+  {
+    "id": "i18n-plus",
+    "name": "I18n+",
+    "author": "dangehub",
+    "description": "Manage translations for Obsidian plugins with hot-reload support and crowdsourced dictionaries.",
+    "repo": "dangehub/obsidian-plugins-i18n-plus"  
   }
 ]
